@@ -1,0 +1,21 @@
+# Core
+streamlit==1.54.0
+
+# LlamaIndex
+llama-index==0.14.13
+llama-index-llms-openrouter==0.4.4
+llama-index-embeddings-huggingface==0.6.1
+llama-index-vector-stores-postgres==0.7.3
+
+# Database
+psycopg2-binary==2.9.11
+
+# Working with documents
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+pandas>=2.0.0
+beautifulsoup4==4.14.3
+
+# Utils
+python-dotenv==1.1.0
+requests==2.32.5
